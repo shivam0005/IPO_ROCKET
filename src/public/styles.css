@@ -1,0 +1,48 @@
+
+/* styles.css */
+
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* IPO component styles */
+  #ipo-component {
+    margin-bottom: 30px;
+  }
+  #ipo-component h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Currency component styles */
+  #currency-component {
+    margin-bottom: 30px;
+  }
+  #currency-component h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  #currency-component ul {
+    list-style: none;
+    padding: 0;
+  }
+  #currency-component li {
+    margin-bottom: 8px;
+  }
+  
+
+  .ipo-item {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  }
